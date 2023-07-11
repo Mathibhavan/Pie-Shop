@@ -1,0 +1,25 @@
+
+.row{
+  margin-top: 1rem !important;
+  margin-bottom: 0.5rem !important;
+  font-style: italic;
+}
+.text-center {
+padding-top: 1em !important;
+padding-bottom: 1em !important;
+background-color: palevioletred !important;
+font-size: larger;
+font-style: italic;
+}
+p{
+  font-size: large;
+}
+.col-md-3{
+  margin-left: 1em;
+  }
+  .btn{
+    background-color: palevioletred !important;
+    border-color: palevioletred;
+  }
+
+
