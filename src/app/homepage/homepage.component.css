@@ -1,11 +1,13 @@
 p{
   font-style: italic;
   font-size: larger;
-  margin-left: 0.5em;
 }
 h5{
   margin-top: 1em;
   font-style: italic;
-  margin-left: 0.5em;
+}
+img{
+  margin-top: 3em !important;
+  border-radius: 0.8% !important;
 }
 

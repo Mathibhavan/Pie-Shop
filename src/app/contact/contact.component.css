@@ -1,0 +1,9 @@
+.card{
+  margin-top: 2em !important;
+  margin-left: 5em !important;
+  margin-bottom: 2em !important;
+}
+.btn{
+  background-color: palevioletred !important;
+  border-color: palevioletred;
+}
